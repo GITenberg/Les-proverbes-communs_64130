@@ -1,11 +1,16 @@
 _repo: Les-proverbes-communs_64130
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64130-h/images/cover.jpg
 creator:
   author:
     agent_name: Véprie, Jean de la
     gutenberg_agent_id: '52762'
     url: http://www.gutenberg.org/2009/agents/52762
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64130#Les-proverbes-communs
 gutenberg_issued: '2020-12-25'
 gutenberg_type: Text
 identifiers:
